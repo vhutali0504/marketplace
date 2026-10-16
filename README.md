@@ -50,7 +50,7 @@ npm run dev
 
 ## Status
 
-🔨 **v1 in progress — Sprint 1: foundations & auth**
+**v1 in progress — Sprint 1: foundations & auth**
 
 | Sprint | Goal | Status |
 |--------|------|--------|
